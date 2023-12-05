@@ -1,0 +1,8 @@
+{
+   "id": "key-json-id",
+   "service_account_id": "key-json-service-account-id",
+   "created_at": "key-json-created-at",
+   "key_algorithm": "RSA_2048",
+   "public_key": "key-json-public-key",
+   "private_key": "key-json-private-key"
+}
